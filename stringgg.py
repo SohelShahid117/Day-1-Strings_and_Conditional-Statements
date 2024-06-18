@@ -35,3 +35,22 @@ print(fruit[-3:-1])
 print(fruit[-5:-2])
 
 # 20 min done
+
+coder = "i am a new coder"
+# print(coder.endswith("er"))
+print(coder.endswith("cod"))
+print(coder.capitalize())
+print(coder.replace("new","old"))
+print(coder.replace("e","F"))
+print(coder.find("m"))
+print(coder.find("X"))
+print(coder.count("am"))
+print(coder.count("Z"))
+
+firstName = input("enter ur first name:")
+print(len(firstName))
+
+dollar = "$,i am the $ symbol"
+print(dollar.count("$"))
+
+#30 min done
